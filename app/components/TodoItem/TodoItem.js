@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   btnGroup: {
-    flexDirection: 'row'
+    flexDirection: 'COLUMN'
   },
   todoText: {
     color: 'black',
