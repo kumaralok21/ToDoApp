@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
   },
   btnContainer: {
     padding: 7,
-    height: 35,
+    height: 45,
     width: 35,
     borderRadius: 35 / 2,
     marginRight: 10,
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   btnGroup: {
-    flexDirection: 'row'
+    flexDirection: 'COLUMN'
   },
   todoText: {
     color: 'black',
